@@ -125,3 +125,10 @@ e.g. on Ubuntu you need to compile with ```--with-libxml-dir=/usr/include/libxml
 ### Further reading
 
 * [Performant-Handling-Excel-Files-PHP](http://blog.mayflower.de/4922-Performant-Handling-Excel-Files-PHP.html)
+
+## Credits
+
+This is a fork of the original project [iliaal/php_excel](https://github.com/iliaal/php_excel).
+
+My intention is to make this a long term open source project that is updated with timely updates and improve 
+the documentation for my organization and others on into the future.
